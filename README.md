@@ -2,9 +2,9 @@
 Root Tracing Algorithm 
 # Installation Links with instructions
 
-MacOS: https://missouri.box.com/s/2iv65a8rol2tk7ebvmkujonq608y84h9
-Windows: https://missouri.box.com/s/ub8sgpesrkr8n1r6g2r55hpd92geuaki
-Test Plates: https://missouri.box.com/s/xv911l8ynuubr349pu5x2y050ws0g172
+1.MacOS: https://missouri.box.com/s/2iv65a8rol2tk7ebvmkujonq608y84h9
+2.Windows: https://missouri.box.com/s/ub8sgpesrkr8n1r6g2r55hpd92geuaki
+3.Test Plates: https://missouri.box.com/s/xv911l8ynuubr349pu5x2y050ws0g172
 
 # Steps for the Root Tracing
 1. Press the File Button and select Image Sequence.
