@@ -1,6 +1,7 @@
 # SPIP V3.24
 Root Tracing Algorithm 
 # Installation Links with instructions
+Open the link and click the download button on the top right corner. 
 
 1. MacOS: https://missouri.box.com/s/2iv65a8rol2tk7ebvmkujonq608y84h9
 2. Windows: https://missouri.box.com/s/ub8sgpesrkr8n1r6g2r55hpd92geuaki
