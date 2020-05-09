@@ -1,14 +1,10 @@
 # SPIP V3.24
 Root Tracing Algorithm 
-# Installation Links
+# Installation Links with instructions
 
-MacOS: 
-Windows: 
-Test Plates: 
-
-# Installation
-
-Unzip the SPIPRoot_3-24_Mac_Installer for MacOS users, and SPIPRoot_V3-24_Win_Installer.exe for Windows Users. Once the application is unzip, start running the application by following the steps of the installer. After downloading everything, the app should be ready to go. There are two Sample plates ( Plate_2_DS and Plate_3_DS) to start using the program. There is a README.md file that contains detailed instructions on how to operate the program. 
+MacOS: https://missouri.box.com/s/2iv65a8rol2tk7ebvmkujonq608y84h9
+Windows: https://missouri.box.com/s/ub8sgpesrkr8n1r6g2r55hpd92geuaki
+Test Plates: https://missouri.box.com/s/xv911l8ynuubr349pu5x2y050ws0g172
 
 # Steps for the Root Tracing
 1. Press the File Button and select Image Sequence.
